@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# SAS4 Universal Bypass Installer (Fixed v1.3)
+# Universal Bypass Installer (Fixed v1.3)
 # Created by Antigravity
 # -----------------------------
 
