@@ -5,7 +5,7 @@
 # -----------------------------
 
 echo "============================================="
-echo "   SAS4 LICENSE BYPASS INSTALLER v1.3       "
+echo "   LICENSE BYPASS INSTALLER v1.3       "
 echo "============================================="
 
 # 1. Check for Manual Inputs
