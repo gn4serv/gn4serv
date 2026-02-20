@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# SAS4 Block External Connection
-# Blocks communication with the vendor update server (51.159.23.43)
+# Block External Connection
+# Blocks communication with the vendor update server
 # -----------------------------
 
 TARGET_IP="51.159.23.43"
